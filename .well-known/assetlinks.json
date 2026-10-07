@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.mahmoh1960.mescomptes",
+        "sha256_cert_fingerprints": ["32:79:D9:BA:53:BA:59:F7:A4:DA:EB:E9:20:00:76:DC:2E:46:25:04:9E:08:83:1A:2D:89:27:4B:9F:35:6F:92"]
+      }
+    }]
